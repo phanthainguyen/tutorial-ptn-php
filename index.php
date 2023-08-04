@@ -1,1 +1,23 @@
 <?php
+$studentlist = array(
+    "1" => array("ten" => "Nguyễn Văn A",
+                 "tuoi" => "18",
+                 "lop" => "12D4",
+                 "diachi" => "Ninh Thuận"),
+    "2" => array("ten" => "Nguyễn Văn B",
+                 "tuoi" => "18",
+                 "lop" => "12D4",
+                 "diachi" => "Ninh Thuận"),
+    "3" => array("ten" => "Nguyễn Văn C",
+                 "tuoi" => "18",
+                 "lop" => "12D4",
+                 "diachi" => "Ninh Thuận"),
+    "4" => array("ten" => "Nguyễn Văn D",
+                 "tuoi" => "18",
+                 "lop" => "12D4",
+                 "diachi" => "Ninh Thuận"),
+    "5" => array("ten" => "Nguyễn Văn E",
+                 "tuoi" => "18",
+                 "lop" => "12D4",
+                 "diachi" => "Ninh Thuận"),
+);
